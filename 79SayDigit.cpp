@@ -28,3 +28,12 @@ string arr[10] = {"Zero", "One", "Two", "Three", "Four",
     sayDigit(n,arr);
     
 }
+
+
+
+/*
+
+input - 412
+output - four one two
+
+*/
