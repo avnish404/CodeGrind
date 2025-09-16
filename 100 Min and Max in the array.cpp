@@ -69,6 +69,7 @@ Output: 1 56789
 Explanation: minimum and maximum element of array are 1 and 56789.
 Input: arr[] = [56789]
 Output: 56789 56789
+
 Explanation: Since the array contains only one element so both min & max are same.
 Constraints:
 1 <= arr.size() <= 105
